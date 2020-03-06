@@ -1,0 +1,5 @@
+/*What is polymorphism? 
+Polymorphism allows an object reference variable or an object pointer to reference objects of different types, and to call the correct member functions, depending upon the type of object being referenced.
+*/
+calling constructor of baseclass
+PassFailActivity() : GradedActivity()

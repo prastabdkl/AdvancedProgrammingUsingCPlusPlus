@@ -1,0 +1,12 @@
+WAP to learn about static member variable
+
+Create a class Tree
+	->Declare a static member variable in private and 
+	Define the variable outside the class.
+	
+	->Whenever an object is created a default constructor is invoked
+	The constructor will count the number of objects created using 
+	count variable.
+
+	Create multiple objects, and write an accessor getCount() to 
+	return the value of count  
